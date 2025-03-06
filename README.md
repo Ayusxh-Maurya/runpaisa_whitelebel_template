@@ -2,7 +2,7 @@ Runpaisa – White Label Payment Website Template
 🚀 Internship Project | Built with HTML, CSS & Bootstrap
 
 
-📌 About the Project![Uploading Macbook-Air-127.0.0.1 (2).png…]()
+
 
 Runpaisa is a multi-page, responsive website template designed for businesses looking for a white-label payment solution interface. Developed as part of my internship, this project showcases various payment solutions with a clean and modern UI, built using HTML, CSS, and Bootstrap.
 
